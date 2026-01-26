@@ -25,7 +25,7 @@
         
 ### Frameworks
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,sass&perline=4" /> 
+    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,sass&perline=4" /> 
 </div>
 
 </td><td valign="top" width="33%">
