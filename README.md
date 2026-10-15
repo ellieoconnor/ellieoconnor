@@ -18,7 +18,7 @@
 
 ### Languages
 <div align="center">  
-    <img src="https://skillicons.dev/icons?i=js,ts,cs&perline=3" /> 
+        <img src="https://skillicons.dev/icons?i=js,ts,cs,py,postgres&perline=3" /> 
 </div>
 
 </td><td valign="top" width="33%">
